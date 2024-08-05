@@ -3,3 +3,7 @@ hello MANIPAL
 i love SOIS
 
 i am india
+
+sonarqube dockercompose file location
+
+https://github.com/SonarSource/docker-sonarqube/blob/master/example-compose-files/sq-with-postgres/docker-compose.yml
